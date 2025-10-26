@@ -13,13 +13,15 @@ Elements and Tags
 	<li>&lt;meta&gt; element</li>
 	<li>&lt;title&gt; element</li>
 	<li>&lt;body&gt; element</li>
-	<li>Paragraphs (<p>)</li>
+	<li>Paragraphs (&lt;p&gt;)</li>
 	<li>&lt;strong&gt; element</li>
 	<li>&lt;em&gt; element</li>
 </ul>
 
 Void Elements
-	•	Examples of self-closing tags such as <br>, <hr>, and <img>
+<ul>
+	•	Examples of self-closing tags such as &lt;br&gt;, &lt;hr&gt;, and &lt;img&gt;
+</ul>
 
 HTML Comments
 
@@ -27,15 +29,17 @@ Learn how to add comments to improve readability and documentation within the HT
 
 Lists
 
-Explore ordered (<ol>) and unordered (<ul>) lists to organize content effectively.
+Explore ordered (&lt;ol&gt;) and unordered (&lt;ul&gt;) lists to organize content effectively.
 
 Links and Images
 
-Use the '<a>' and '<img>' elements to add navigation and visual content to the page.
+Use the &gt;a&lt; and &gt;img&lt; elements to add navigation and visual content to the page.
 
 Attributes
 
 Understand how HTML attributes work and how to use them to customize elements (e.g., src, alt, href, title).
 
 🛠️ Technologies Used
-	•	HTML5
+<ul>	
+	HTML5
+</ul>
