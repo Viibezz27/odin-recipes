@@ -18,24 +18,24 @@ Elements and Tags
 	<li>&lt;em&gt; element</li>
 </ul>
 
-Void Elements
+<strong>Void Elements</strong>
 <ul>
 	<li>Examples of self-closing tags such as &lt;br&gt;, &lt;hr&gt;, and &lt;img&gt;</li>
 </ul>
 
-HTML Comments
+<strong>HTML Comments</strong>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Learn how to add comments to improve readability and documentation within the HTML code.
 
-Lists
+<strong>Lists</strong>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Explore ordered (&lt;ol&gt;) and unordered (&lt;ul&gt;) lists to organize content effectively.
 
-Links and Images
+<strong>Links and Images</strong>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Use the &lt;a&gt; and &lt;img&gt; elements to add navigation and visual content to the page.
 
-Attributes
+<strong>Attributes</strong>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Understand how HTML attributes work and how to use them to customize elements (e.g., src, alt, href, title).
 
