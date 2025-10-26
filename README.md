@@ -25,19 +25,19 @@ Void Elements
 
 HTML Comments
 
-	Learn how to add comments to improve readability and documentation within the HTML code.
+&nbsp;&nbsp;&nbsp;&nbsp;Learn how to add comments to improve readability and documentation within the HTML code.
 
 Lists
 
-	Explore ordered (&lt;ol&gt;) and unordered (&lt;ul&gt;) lists to organize content effectively.
+&nbsp;&nbsp;&nbsp;&nbsp;Explore ordered (&lt;ol&gt;) and unordered (&lt;ul&gt;) lists to organize content effectively.
 
 Links and Images
 
-	Use the &lt;a&gt; and &lt;img&gt; elements to add navigation and visual content to the page.
+&nbsp;&nbsp;&nbsp;&nbsp;Use the &lt;a&gt; and &lt;img&gt; elements to add navigation and visual content to the page.
 
 Attributes
 
-	Understand how HTML attributes work and how to use them to customize elements (e.g., src, alt, href, title).
+&nbsp;&nbsp;&nbsp;&nbsp;Understand how HTML attributes work and how to use them to customize elements (e.g., src, alt, href, title).
 
 🛠️ Technologies Used
 <ul>	
