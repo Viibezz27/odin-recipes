@@ -8,7 +8,7 @@ The main goal is to strengthen my understanding of fundamental HTML concepts and
 🧩 Features and HTML Concepts
 
 Elements and Tags
-	•	'<html>' element
+	•	&lt;html&gt; element
 	•	'<head>' element
 	•	'<meta>' element
 	•	'<title>' element
