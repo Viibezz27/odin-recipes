@@ -20,7 +20,7 @@ Elements and Tags
 
 Void Elements
 <ul>
-	•	Examples of self-closing tags such as &lt;br&gt;, &lt;hr&gt;, and &lt;img&gt;
+	<li>Examples of self-closing tags such as &lt;br&gt;, &lt;hr&gt;, and &lt;img&gt;</li>
 </ul>
 
 HTML Comments
@@ -33,7 +33,7 @@ Explore ordered (&lt;ol&gt;) and unordered (&lt;ul&gt;) lists to organize conten
 
 Links and Images
 
-Use the &gt;a&lt; and &gt;img&lt; elements to add navigation and visual content to the page.
+Use the &lt;a&gt; and &lt;img&gt; elements to add navigation and visual content to the page.
 
 Attributes
 
@@ -41,5 +41,5 @@ Understand how HTML attributes work and how to use them to customize elements (e
 
 🛠️ Technologies Used
 <ul>	
-	HTML5
+	<li>HTML5</li>
 </ul>
