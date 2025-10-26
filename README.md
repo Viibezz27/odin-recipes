@@ -8,14 +8,14 @@ The main goal is to strengthen my understanding of fundamental HTML concepts and
 🧩 Features and HTML Concepts
 
 Elements and Tags
-	•	<html> element
-	•	<head> element
-	•	<meta> element
-	•	<title> element
-	•	<body> element
+	•	'<html>' element
+	•	'<head>' element
+	•	'<meta>' element
+	•	'<title>' element
+	•	'<body>' element
 	•	Paragraphs (<p>)
-	•	<strong> element
-	•	<em> element
+	•	'<strong>' element
+	•	'<em>' element
 
 Void Elements
 	•	Examples of self-closing tags such as <br>, <hr>, and <img>
@@ -30,7 +30,7 @@ Explore ordered (<ol>) and unordered (<ul>) lists to organize content effectivel
 
 Links and Images
 
-Use the <a> and <img> elements to add navigation and visual content to the page.
+Use the '<a>' and '<img>' elements to add navigation and visual content to the page.
 
 Attributes
 
