@@ -1,4 +1,3 @@
-# Odin Recipes
 📘 Project Overview
 
 In this project, I will put everything I have learned so far into practice.
@@ -8,14 +7,16 @@ The main goal is to strengthen my understanding of fundamental HTML concepts and
 🧩 Features and HTML Concepts
 
 Elements and Tags
-	•	&lt;html&gt; element
-	•	'<head>' element
-	•	'<meta>' element
-	•	'<title>' element
-	•	'<body>' element
-	•	Paragraphs (<p>)
-	•	'<strong>' element
-	•	'<em>' element
+<ul>
+	<li>&lt;html&gt; element</li>
+	<li>&lt;head&gt; element</li>
+	<li>&lt;meta&gt; element</li>
+	<li>&lt;title&gt; element</li>
+	<li>&lt;body&gt; element</li>
+	<li>Paragraphs (<p>)</li>
+	<li>&lt;strong&gt; element</li>
+	<li>&lt;em&gt; element</li>
+</ul>
 
 Void Elements
 	•	Examples of self-closing tags such as <br>, <hr>, and <img>
