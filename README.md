@@ -1,12 +1,12 @@
-📘 Project Overview
+📘 <strong>Project Overview</strong>
 
 In this project, I will put everything I have learned so far into practice.
 The main goal is to strengthen my understanding of fundamental HTML concepts and structure a basic web page using proper elements, tags, and attributes.
 
 
-🧩 Features and HTML Concepts
+🧩 <strong>Features and HTML Concepts</strong>
 
-Elements and Tags
+<strong>Elements and Tags</strong>
 <ul>
 	<li>&lt;html&gt; element</li>
 	<li>&lt;head&gt; element</li>
@@ -39,7 +39,7 @@ Elements and Tags
 
 &nbsp;&nbsp;&nbsp;&nbsp;Understand how HTML attributes work and how to use them to customize elements (e.g., src, alt, href, title).
 
-🛠️ Technologies Used
+🛠️ <strong>Technologies Used</strong>
 <ul>	
 	<li>HTML5</li>
 </ul>
