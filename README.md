@@ -2,7 +2,7 @@
 
 <p>In this project, I will put everything I have learned so far into practice.
 The main goal is to strengthen my understanding of fundamental HTML concepts and structure a basic web page using proper elements, tags, and attributes.</p>
-<p>With the addition of CSS, the project now also demonstrates styling and layout fundamentals.</p>
+With the addition of CSS, the project now also demonstrates styling and layout fundamentals.
 
 🧩 <strong>Features and HTML Concepts</strong>
 
@@ -41,8 +41,34 @@ The main goal is to strengthen my understanding of fundamental HTML concepts and
 
 <strong>🎨 CSS Styling and Layout</strong>
 
+<p>With the addition of CSS, the project now includes:</p>
+
+<strong>Basic Styling</strong>
+
+<ul>
+	<li>Font family and typography</li>
+	<li>Colors and background</li>
+	<li>Spacing (margin and padding)</li>
+</ul>
+
+<strong>Layout</strong>
+
+<ul>
+	<li>Container alignment</li>
+	<li>Flexbox or Grid</li>
+	<li>Responsive design basics</li>
+</ul>
+
+<strong>Visual Enhancements</strong>
+
+<ul>
+	<li>Hover effects</li>
+	<li>Button styling</li>
+	<li>Image styling (border, shadow, etc.)</li>
+</ul>
+
 🛠️ <strong>Technologies Used</strong>
 <ul>	
 	<li>HTML5</li>
-	<li>CSS</li>
+	<li>CSS3</li>
 </ul>
