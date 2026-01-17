@@ -2,7 +2,7 @@
 
 <p>In this project, I will put everything I have learned so far into practice.
 The main goal is to strengthen my understanding of fundamental HTML concepts and structure a basic web page using proper elements, tags, and attributes.</p>
-With the addition of CSS, the project now also demonstrates styling and layout fundamentals.
+<p>With the addition of CSS, the project now also demonstrates styling and layout fundamentals.</p>
 
 🧩 <strong>Features and HTML Concepts</strong>
 
@@ -70,5 +70,5 @@ With the addition of CSS, the project now also demonstrates styling and layout f
 🛠️ <strong>Technologies Used</strong>
 <ul>	
 	<li>HTML5</li>
-	<li>CSS3</li>
+	<li>CSS</li>
 </ul>
