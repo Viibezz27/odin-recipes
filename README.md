@@ -1,8 +1,8 @@
 📘 <strong>Project Overview</strong>
 
-In this project, I will put everything I have learned so far into practice.
-The main goal is to strengthen my understanding of fundamental HTML concepts and structure a basic web page using proper elements, tags, and attributes.
-With the addition of CSS, the project now also demonstrates styling and layout fundamentals.
+<p>In this project, I will put everything I have learned so far into practice.
+The main goal is to strengthen my understanding of fundamental HTML concepts and structure a basic web page using proper elements, tags, and attributes.</p>
+<p>With the addition of CSS, the project now also demonstrates styling and layout fundamentals.</p>
 
 🧩 <strong>Features and HTML Concepts</strong>
 
